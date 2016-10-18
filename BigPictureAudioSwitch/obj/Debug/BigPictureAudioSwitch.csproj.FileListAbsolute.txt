@@ -1,0 +1,10 @@
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\bin\Debug\BigPictureAudioSwitch.exe.config
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\obj\Debug\BigPictureAudioSwitch.csprojResolveAssemblyReference.cache
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\bin\Debug\BigPictureAudioSwitch.exe
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\bin\Debug\BigPictureAudioSwitch.pdb
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\obj\Debug\BigPictureAudioSwitch.Properties.Resources.resources
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\obj\Debug\BigPictureAudioSwitch.csproj.GenerateResource.Cache
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\obj\Debug\BigPictureAudioSwitch.exe
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\obj\Debug\BigPictureAudioSwitch.pdb
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+E:\development\vs_workspace\BigPictureAudioSwitch\BigPictureAudioSwitch\bin\Debug\AudioSwitcher.AudioApi.dll
