@@ -39,7 +39,14 @@ namespace BigPictureAudioSwitch
         static void ProcessTimer(object source, ElapsedEventArgs e)
         {
             Guid deviceId = (Guid)Properties.Settings.Default["DeviceId"];
+            // Legacy Big Picture Window
             int found = FindWindow("CUIEngineWin32", "Steam");
+            //Steamdeck Big picture window
+            if (found == 0)
+            {
+                found = FindWindow("SDL_app", "Steam Big Picture Mode");
+            }
+
 
             if (found != 0 && !(audioSwitched))
             {
